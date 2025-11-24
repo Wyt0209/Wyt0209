@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently pursuing my Maaster of Architecture degree at Tsinghua University. 
+
+🤔 My research focuses on urban informatics, social media mining, spatial analysis, and the intersection of technology and urban design. My work combines quantitative methods (machine learning, spatial modeling, social network analysis) with qualitative approaches (ethnographic studies, field research) to understand urban phenomena and inform design and planning decisions.
+
+👯 I’m looking to collaborate on social sensing and urban perception, as well as computational methods supporting urban planning and design.
+
+📫 Explore more about me from my personal website: www.wang-yt.com
