@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently pursuing my Master of Architecture degree at Tsinghua University. I am Bachelor of Architecture at Tsinghua University with a minor in sociology.
 
-🤔 My research focuses on urban informatics, social media mining, spatial analysis, and the intersection of technology and urban design. My work combines quantitative methods (machine learning, spatial modeling, social network analysis) with qualitative approaches (ethnographic studies, field research) to understand urban phenomena and inform design and planning decisions.
+🔭 I am a Master of Architecture student at Tsinghua University, with a Bachelor of Architecture and a Minor in Sociology. 
+ 
+🤔 I work at the intersection of urban perception, social sensing, and computational design, using multimodal data and spatial modeling to understand how urban experiences and narratives relate to broader spatial mechanisms. I aim to build analytical and computational frameworks that help designers and planners engage with cities not only as physical systems, but as lived, narrated, and negotiated environments.
+
+My current work spans two areas:
+✨ Urban perception and spatial mechanisms — using multimodal data to uncover patterns of experience, behavior, and spatial inequality;
+✨ Computational models of space and interaction — developing methods that simulate spatial logic and human–environment relationships.
 
 👯 I’m looking to collaborate on social sensing and urban perception, as well as computational methods supporting urban planning and design.
 
